@@ -38,4 +38,6 @@ shown so students can see why each assignment was ranked where it is.
 Proposal stage (Nov 2026). Design due 21 Dec 2026; prototype and final report due 21 Jan 2027.
 
 ## Workflow
-- `main`: stable,
+- `main`: stable, tagged releases · `dev`: integration · `feature/<name>-<topic>`: individual work
+- No direct pushes to `main`; all changes go through a pull request with at least one reviewer
+- Each member logs their contributions in `CONTRIBUTIONS.md`
